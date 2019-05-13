@@ -1,6 +1,6 @@
 [submodule "Programming"]
 	path = Programming
-	url = ../cs-programming.git
+	url = git@github.com:the-bookshelf/cs-programming.git
 [submodule "Architecture"]
 	path = Architecture
-	url = ../cs-architecture.git
+	url = git@github.com:the-bookshelf/cs-architecture.git
